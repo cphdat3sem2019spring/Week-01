@@ -15,16 +15,20 @@ Watch:
 
 ## Day 2 (29/1) Testing and Maven
 
-#### Exercises
-[Getting started with Maven](https://docs.google.com/document/d/193QmOG5RIzCq1oTwMVKlCegWTT8lv7hmavqX6PxMLEM/edit?usp=sharing)
-[Testing With Maven](https://docs.google.com/document/d/1tDz3rP4Li52nJSIqBgPo6PKLSpVtX56a-ygAHKdKNO0/edit?usp=sharing)
+### Before this lesson you should
+TBD
+
+### Exercises
+- [Getting started with Maven](https://docs.google.com/document/d/193QmOG5RIzCq1oTwMVKlCegWTT8lv7hmavqX6PxMLEM/edit?usp=sharing)
+- [Testing With Maven](https://docs.google.com/document/d/1tDz3rP4Li52nJSIqBgPo6PKLSpVtX56a-ygAHKdKNO0/edit?usp=sharing)
 
 
 ## Day 3 (30/1) Continuous Integration and Test Driven Design
 ### Before this lesson you should
 TBD
 #### Exercises
-TBD
+[Getting started with CI and Travis](https://docs.google.com/document/d/1XJrJEkhXUbOxJ-RzhBxkOkVlZYe6E3BjPu-o0AlaXnM/edit?usp=sharing)
+[Testing and Deployment with Travis (TBD)](#)
 
 #### Slides
 [Test Driven Development and Continuous Integration](https://docs.google.com/presentation/d/1HlOOkZq_9TFnuSf8tHLMj95pI5dqe5jQJOT0hF0uwh8/edit?usp=sharing)
