@@ -25,7 +25,10 @@ Watch:
 ## Day 2 (29/1) Testing and Maven
 
 ### Before this lesson you should
-TBD
+-[What is Maven (5 min.)](https://maven.apache.org/what-is-maven.html)
+-[Maven in 5 min (expect to use at least 15 min, this is included in one of todays exercises]https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+-[Maven Getting Started Guide (15-20 min, bookmark for future reference)[https://maven.apache.org/guides/getting-started/index.html]
+
 
 ### Exercises
 - [Getting started with Maven](https://docs.google.com/document/d/193QmOG5RIzCq1oTwMVKlCegWTT8lv7hmavqX6PxMLEM/edit?usp=sharing)
