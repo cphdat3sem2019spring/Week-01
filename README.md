@@ -36,8 +36,8 @@ TBD
 ### Before this lesson you should
 TBD
 #### Exercises
-[Getting started with CI and Travis](https://docs.google.com/document/d/1XJrJEkhXUbOxJ-RzhBxkOkVlZYe6E3BjPu-o0AlaXnM/edit?usp=sharing)
-[Testing and Deployment with Travis (TBD)](#)
+- [Getting started with CI and Travis](https://docs.google.com/document/d/1XJrJEkhXUbOxJ-RzhBxkOkVlZYe6E3BjPu-o0AlaXnM/edit?usp=sharing)
+- [Testing and Deployment with Travis (TBD)](#)
 
 #### Slides
 [Test Driven Development and Continuous Integration](https://docs.google.com/presentation/d/1HlOOkZq_9TFnuSf8tHLMj95pI5dqe5jQJOT0hF0uwh8/edit?usp=sharing)
