@@ -26,8 +26,8 @@ Watch:
 
 ### Before this lesson you should
 - [What is Maven (5 min.)](https://maven.apache.org/what-is-maven.html)
-- [Maven in 5 min (expect to use at least 15 min. This is included in one of todays exercises](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
-- [Maven Getting Started Guide (15-20 min, bookmark for future reference](https://maven.apache.org/guides/getting-started/index.html)
+- [Maven in 5 min (expect to use at least 15 min. This is included in one of todays exercises)](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+- [Maven Getting Started Guide (15-20 min, bookmark for future reference)](https://maven.apache.org/guides/getting-started/index.html)
 
 
 ### Exercises
