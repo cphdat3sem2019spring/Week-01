@@ -45,10 +45,11 @@ This day will give you an overall introduction to this semester, and after that 
 
 ## Day 4 (31/1) JavaScript introduction
 ### Before this lesson you should 
-- :green_book: Read the [MDN JavaScript Guide (45-70 min)](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Introduction) (Skip these sections: Regular expressions, Keyed collections, Details of the object model and the remaining sections) 
+:green_book: Read the [MDN JavaScript Guide (45-70 min)](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Introduction) (Skip these sections: Regular expressions, Keyed collections, Details of the object model and the remaining sections) 
 
 **OR**
-- :tv: [Course on Lynda.com (90 min, but skip sections you find to trivial)](https://www.lynda.com/JavaScript-tutorials/Welcome/574716/612017-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ajavascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) - section 1 - 4 + 9 
+
+:tv: [Course on Lynda.com (90 min, but skip sections you find to trivial)](https://www.lynda.com/JavaScript-tutorials/Welcome/574716/612017-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ajavascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) - section 1 - 4 + 9 
 
 ### Exercises
 - [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit) 
