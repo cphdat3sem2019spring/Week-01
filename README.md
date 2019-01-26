@@ -13,11 +13,9 @@ This day will give you an overall introduction to this semester, and after that 
 
 ### Before this lesson you should
 :green_book:
-- [The test Pyramid (5-10 min)](https://martinfowler.com/bliki/TestPyramid.html)
-- [Equivalence-partitioning and Boundary value analysis (15-20 min)](https://www.guru99.com/equivalence-partitioning-boundary-value-analysis.html)
-
-:tv:
-- [section-1 in this Lynda.com video (15 min)](https://www.lynda.com/Software-Development-tutorials/What-kind-testing/124398/137958-4.html?srchtrk=index%3a6%0alinktypeid%3a2%0aq%3aTDD%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+- :green_book: [The test Pyramid (5-10 min)](https://martinfowler.com/bliki/TestPyramid.html)
+- :green_book: [Equivalence-partitioning and Boundary value analysis (15-20 min)](https://www.guru99.com/equivalence-partitioning-boundary-value-analysis.html)
+- :tv: [section-1 in this Lynda.com video (15 min)](https://www.lynda.com/Software-Development-tutorials/What-kind-testing/124398/137958-4.html?srchtrk=index%3a6%0alinktypeid%3a2%0aq%3aTDD%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 
 ### Exercises
 [Test Driven Desing with JUnit](https://docs.google.com/document/d/107xr-XJY9qPyYKZlWZW6usw5xuZm48pNrwKPBQ3F9WE/edit?usp=sharing)
@@ -25,9 +23,9 @@ This day will give you an overall introduction to this semester, and after that 
 ## Day 2 (29/1) Testing and Maven
 
 ### Before this lesson you should
-- [What is Maven (5 min.)](https://maven.apache.org/what-is-maven.html)
-- [Maven in 5 min (expect to use at least 15 min. This is included in one of todays exercises)](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
-- [Maven Getting Started Guide (15-20 min, bookmark for future reference)](https://maven.apache.org/guides/getting-started/index.html)
+- :green_book: [What is Maven (5 min.)](https://maven.apache.org/what-is-maven.html)
+- :green_book: [Maven in 5 min (expect to use at least 15 min. This is included in one of todays exercises)](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+- :green_book: [Maven Getting Started Guide (15-20 min, bookmark for future reference)](https://maven.apache.org/guides/getting-started/index.html)
 #### Reference Info
 [Maven Guidelines for 3. semester Computer Science](https://docs.google.com/document/d/1WhUccsbU7SzomqSKau30BcmfsvjBMCNDsWGohFFmyRI/edit?usp=sharing) Should be used as a reference throughout the semester
 
@@ -48,7 +46,7 @@ This day will give you an overall introduction to this semester, and after that 
 
 ## Day 4 (31/1) JavaScript introduction
 ### Before this lesson you should 
-- Read the [MDN JavaScript Guide (45-70 min)](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Introduction) (Skip these sections: Regular expressions, Keyed collections, Details of the object model and the remaining sections) 
+- :green_book: Read the [MDN JavaScript Guide (45-70 min)](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Introduction) (Skip these sections: Regular expressions, Keyed collections, Details of the object model and the remaining sections) 
 
 **OR**
 - Watch [Course on Lynda.com (90 min, but skip sections you find to trivial)](https://www.lynda.com/JavaScript-tutorials/Welcome/574716/612017-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ajavascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) - section 1 - 4 + 9 
