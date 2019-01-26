@@ -35,7 +35,7 @@ This day will give you an overall introduction to this semester, and after that 
 
 ## Day 3 (30/1) Continuous Integration and Test Driven Design
 ### Before this lesson you should
-**Read:** [Continuous Integration (20 min --> Should give you time to read it twice)](https://www.thoughtworks.com/continuous-integration) This will form the basis for a class discussion, SO MAKE SURE to read this BEFORE the lessen
+:green_book: [Continuous Integration (20 min --> Should give you time to read it twice)](https://www.thoughtworks.com/continuous-integration) This will form the basis for a class discussion, SO MAKE SURE to read this BEFORE the lessen
 #### Exercises
 - [Getting started with CI and Travis](https://docs.google.com/document/d/1XJrJEkhXUbOxJ-RzhBxkOkVlZYe6E3BjPu-o0AlaXnM/edit?usp=sharing)
 - [Testing and Deployment with Travis (TBD)](#)
@@ -48,7 +48,7 @@ This day will give you an overall introduction to this semester, and after that 
 - :green_book: Read the [MDN JavaScript Guide (45-70 min)](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Introduction) (Skip these sections: Regular expressions, Keyed collections, Details of the object model and the remaining sections) 
 
 **OR**
-- Watch [Course on Lynda.com (90 min, but skip sections you find to trivial)](https://www.lynda.com/JavaScript-tutorials/Welcome/574716/612017-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ajavascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) - section 1 - 4 + 9 
+- :tv: [Course on Lynda.com (90 min, but skip sections you find to trivial)](https://www.lynda.com/JavaScript-tutorials/Welcome/574716/612017-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ajavascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) - section 1 - 4 + 9 
 
 ### Exercises
 - [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit) 
