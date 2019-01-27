@@ -1,4 +1,4 @@
-**# Week-01 Intro, test, test driven design Maven, Continuous Integration + JavaScript intro
+# Week-01 Intro, test, test driven design Maven, Continuous Integration + JavaScript intro
 
 ## Business competences
 #### Test, Maven and CI
