@@ -35,7 +35,10 @@ This day will give you an overall introduction to this semester, and after that 
 
 ## Day 3 (30/1) Continuous Integration and Test Driven Design
 ### Before this lesson you should
-:green_book: [Continuous Integration (20 min --> Should give you time to read it twice)](https://www.thoughtworks.com/continuous-integration) This will form the basis for a class discussion, SO MAKE SURE to read this BEFORE the lessen
+- :green_book: [Continuous Integration (10 min)](https://www.thoughtworks.com/continuous-integration) This will form the basis for a class discussion, SO MAKE SURE to read this BEFORE the lessen
+- :green_book: [What is DevOps (5-10 min](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops)
+- :green_book: [Integration, -Delivery and -Deployment explained](https://www.devon.nl/en/continuous-integration-delivery-deployment/) Pease note, there is not one right definition of these topics, this is the one we will use this semester
+
 #### Exercises
 - [Getting started with CI and Travis](https://docs.google.com/document/d/1XJrJEkhXUbOxJ-RzhBxkOkVlZYe6E3BjPu-o0AlaXnM/edit?usp=sharing)
 - [Testing and Deployment with Travis (TBD)](#)
