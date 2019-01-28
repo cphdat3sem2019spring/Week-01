@@ -20,8 +20,8 @@ This day will give you an overall introduction to this semester, and after that 
 [Test Driven Desing with JUnit](https://docs.google.com/document/d/107xr-XJY9qPyYKZlWZW6usw5xuZm48pNrwKPBQ3F9WE/edit?usp=sharing)
 
 #### Slides
-[Semester Intro](https://docs.google.com/presentation/d/1ta1GsQeeXvno0MwWrWaKsSMHxrvfE37oViMuKzrhIxs/edit?usp=sharing)
-[Software testing](https://docs.google.com/presentation/d/1_jtoNu4C6zcNU0RkDl_QBFFxRb4MnWZWaRGa3nO3mvg/edit?usp=sharing) Includes the required architecture for the semester project
+- [Semester Intro](https://docs.google.com/presentation/d/1ta1GsQeeXvno0MwWrWaKsSMHxrvfE37oViMuKzrhIxs/edit?usp=sharing)
+- [Software testing](https://docs.google.com/presentation/d/1_jtoNu4C6zcNU0RkDl_QBFFxRb4MnWZWaRGa3nO3mvg/edit?usp=sharing) Includes the required architecture for the semester project
 
 ## Day 2 (29/1) Testing and Maven
 
