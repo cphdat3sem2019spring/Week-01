@@ -1,5 +1,5 @@
 # Week-01 Intro, test, test driven design Maven, Continuous Integration + JavaScript intro
-
+[snippet](https://docs.google.com/document/d/1AWqqCEpiQzbpebkCa-N_xIQNqJToqwOubxZjbEOdUpI/edit?usp=sharing)
 ## Business competences
 #### Test, Maven and CI
 History has proven that the task of designing quality software is not an easy task
