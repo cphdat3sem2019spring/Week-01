@@ -41,7 +41,7 @@ This day will give you an overall introduction to this semester, and after that 
 ### Before this lesson you should
 - :green_book: [Continuous Integration (10 min)](https://www.thoughtworks.com/continuous-integration) This will form the basis for a class discussion, so read this BEFORE the lessen
 - :green_book: [What is DevOps (5-10 min](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops)
-- :green_book: [Integration, -Delivery and -Deployment explained](https://www.devon.nl/en/continuous-integration-delivery-deployment/) Pease note, there is not one right definition of these topics, this is the one we will use this semester
+- :green_book: [Integration, -Delivery and -Deployment explained](https://www.devon.nl/en/continuous-integration-delivery-deployment/) Please note, there is not one right definition of these topics, this is the one we will use this semester and for the exam.
 
 #### Exercises
 - [Getting started with CI and Travis](https://docs.google.com/document/d/1XJrJEkhXUbOxJ-RzhBxkOkVlZYe6E3BjPu-o0AlaXnM/edit?usp=sharing)
