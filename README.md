@@ -50,20 +50,13 @@ This day will give you an overall introduction to this semester, and after that 
 #### Slides
 [Test Driven Development and Continuous Integration](https://docs.google.com/presentation/d/1HlOOkZq_9TFnuSf8tHLMj95pI5dqe5jQJOT0hF0uwh8/edit?usp=sharing)
 
-## Day 4 (31/1) JavaScript introduction
+## Day 4 (31/1) Recap on week-1
 ### Before this lesson you should 
-:green_book: Read the [MDN JavaScript Guide (45-70 min)](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Introduction) (Skip these sections: Regular expressions, Keyed collections, Details of the object model and the remaining sections) 
 
-**OR**
-
-:tv: [Course on Lynda.com (90 min, but skip sections you find to trivial)](https://www.lynda.com/JavaScript-tutorials/Welcome/574716/612017-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ajavascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) - section 1 - 4 + 9 
-
-### Exercises
-- [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit) 
-- [JavaScript Ex-1](https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit)
+Prepare all the questions you can come up with, related to this week, for this lesson
 
 ## Day 5 (1/2) Study Point Exercises 1
-TBD
+[SP1](https://docs.google.com/document/d/16PhfwoQ5Ai0CqRQZo-YWHvPbHbk39PSEBUkMVGj5uNk/edit?usp=sharing)
 
 
 
