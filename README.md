@@ -59,6 +59,7 @@ Prepare all the questions you can come up with, related to this week, for this l
 
 ## Day 5 (1/2) Study Point Exercises 1
 [SP1](https://docs.google.com/document/d/16PhfwoQ5Ai0CqRQZo-YWHvPbHbk39PSEBUkMVGj5uNk/edit?usp=sharing)
+[Review Tider til mandag](https://docs.google.com/document/d/1p_chc4cLBw9hOZyIKaFCHSB0PDBFI9bBn0LPtQJiSKE/edit?usp=sharing)
 
 
 
