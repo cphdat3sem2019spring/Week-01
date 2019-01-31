@@ -36,6 +36,8 @@ This day will give you an overall introduction to this semester, and after that 
 - [Getting started with Maven](https://docs.google.com/document/d/193QmOG5RIzCq1oTwMVKlCegWTT8lv7hmavqX6PxMLEM/edit?usp=sharing)
 - [Testing With Maven](https://docs.google.com/document/d/1tDz3rP4Li52nJSIqBgPo6PKLSpVtX56a-ygAHKdKNO0/edit?usp=sharing)
 
+#### Slides
+[Maven Slides](https://docs.google.com/presentation/d/1o2c2haU7zM9M9U6tRW7drgRMObmWx-9oiCe2_6mPmRk/edit?usp=sharing)
 
 ## Day 3 (30/1) Continuous Integration and Test Driven Design
 ### Before this lesson you should
