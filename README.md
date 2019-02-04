@@ -1,12 +1,11 @@
-# Week-01 Intro, test, test driven design Maven, Continuous Integration + JavaScript intro
+# Week-01 Intro, test, test driven design Maven and Continuous Integration with Travis CI
 [snippet](https://docs.google.com/document/d/1AWqqCEpiQzbpebkCa-N_xIQNqJToqwOubxZjbEOdUpI/edit?usp=sharing)
+
 ## Business competences
-#### Test, Maven and CI
+
 History has proven that the task of designing quality software is not an easy task
 Knowing how and when to test software is one way of ensuring quality in software and is a skill in high demand on the job-market. [ref](https://www.jobindex.dk/jobsoegning/it?q=tester)
-#### JavaScript
-JavaScript is one of the most demanded programming skills. [ref: it.jobindex.dk](https://it.jobindex.dk/jobsoegning?q=javascript&supid=1)
-JavaScript this semester will provide students with the background to join modern front-end teams, using JS and supplementing JS frameworks/libraries.
+
 
 ## Day 1 (28/1) Intro and Testing
 This day will give you an overall introduction to this semester, and after that we will start with the topic Testing
